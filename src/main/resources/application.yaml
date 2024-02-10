@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: jbdc: postgresql//localhost:5432/
